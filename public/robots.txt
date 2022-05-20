@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Disallow: /create-storage
+Disallow: /bookings
+Disallow: /messages
+Disallow: /settings
+
+# Sitemaps
+Sitemap: https://cubbiq.com/sitemap.xml

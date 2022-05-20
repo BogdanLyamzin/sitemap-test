@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7436b76a-a9ee-48d7-8993-42b581ebd0b9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/next-sitemap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/posts/[id].js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="7436b76a-a9ee-48d7-8993-42b581ebd0b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +21,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29QnpB0mUdyPzPODnhjSodteosp" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -51,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653054358091</updated>
       <workItem from="1653054360274" duration="493000" />
-      <workItem from="1653055252722" duration="752000" />
+      <workItem from="1653055252722" duration="1099000" />
     </task>
     <servers />
   </component>
