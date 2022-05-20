@@ -3,7 +3,7 @@
 import { getServerSideSitemap } from 'next-sitemap'
 import { GetServerSideProps } from 'next'
 
-export const getServerSideProps: GetServerSideProps = async (ctx) => {
+export const getServerSideProps = async (ctx) => {
     // Method to source urls from cms
     // const urls = await fetch('https//example.com/api')
 
